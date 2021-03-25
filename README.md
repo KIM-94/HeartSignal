@@ -13,8 +13,8 @@
 
 | Depencency | Version |
 | ---------- | ------- |
-| MPU6050_lite | 3.4.0   |
-| SparkFun MAX3010x Pulse and Proximity Sensor Library    | v3.1.0   |
+| MPU6050_lite | 1.1.0   |
+| SparkFun MAX3010x Pulse and Proximity Sensor Library    | 1.1.1   |
 
   
   
