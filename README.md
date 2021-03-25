@@ -50,7 +50,7 @@
 
 ## 📸 SCREENSHOTS
 <img width="250" src="/img/img1.jpg"/> <img width="250" src="/img/img2.jpg"/> <img width="250" src="/img/img3.png"/>
-<img width="250" src="/img/img4.jpg"/> <img width="250" src="/img/img5.jpg"/> <img width="250" src="/img/img6.jpg"/>
+<img width="250" src="/img/gif2.gif"/> <img width="250" src="/img/img5.jpg"/> <img width="250" src="/img/gif1.gif"/>
 
 
 ## 📐 ARCHITECTURE
